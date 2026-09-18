@@ -31,9 +31,8 @@ translate.js 的微调指令统一维护在下面的官方页面中：
 - 快速使用：<https://translate.zvo.cn/532777.html>
 - translate.js 源码：<https://gitee.com/mail_osc/translate/raw/master/translate.js/translate.js>
 - translate.js 源码备用地址：<https://raw.githubusercontent.com/xnx3/translate/refs/heads/master/translate.js/translate.js>
-- translate.js 源码备用地址：<http://res.zvo.cn/translate/translate.js>
 
-需要阅读源码时，按 Gitee、GitHub、`res.zvo.cn` 的顺序尝试；某个地址无法访问时再使用下一个地址，并核对下载内容确实是 translate.js 源码。
+需要阅读源码时，按 GitHub、Gitee 的顺序尝试；某个地址无法访问时再使用下一个地址，并核对下载内容确实是 translate.js 源码。
 
 `zhiling.html` 负责微调能力的集中维护；快速使用文档负责基本接入流程；源码只在文档无法解释具体行为时作为补充依据。
 
